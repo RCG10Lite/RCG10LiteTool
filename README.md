@@ -1,5 +1,5 @@
 In this formerly Windows Activation (now RCG10Lite Tool) are more Features than just an Windows Activation 
-=================================================
+-------------------------------------------------
 Build in:
 and more in the Newest Version
 Windows Activation for Windows 7 & 8 & 8.1 & 10 & 11 with Digital License Key & Volume Key
@@ -11,12 +11,11 @@ Pre Activation in Windows 10/11 Instalation Disk/USB/ISO
 And it can Check the Windows activation Status
 =================================================
 and all is for Free
-=================================================
+-------------------------------------------------
 Website:   rcg10.webador.de
-=================================================
+-------------------------------------------------
 And many Features more
-=================================================
+-------------------------------------------------
 Contribution from RCG10Lite (Windows Activation Tool)
-V1.14.4
-=================================================
-
+V1.16.1
+-------------------------------------------------
